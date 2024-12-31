@@ -15,23 +15,24 @@ The **Google Dorking Web Tool** is a user-friendly online platform designed to h
 2. Enter your website's domain in the input field.  
 3. Browse through the results of various Google Dork queries.  
 
-## Screenshots
-![Screenshot 1](https://dorksearch.netlify.app/ss/1.png)  
-![Screenshot 2](https://dorksearch.netlify.app/ss/2.png)  
-![Screenshot 2](https://dorksearch.netlify.app/ss/3.png)  
+## Screenshot 1
+
+![Screenshot 1](https://dorksearch.netlify.app/ss/1.png)
+
+*screenshot 2.*
+
+![Screenshot 2](https://dorksearch.netlify.app/ss/2.png)
+
+*screenshot 3.*
+
+![Screenshot 3](https://dorksearch.netlify.app/ss/3.png)
 
 ## Disclaimer
 This tool is intended for educational purposes and ethical use only. Do not use it to test domains or data you do not own or have explicit permission to analyze. Unauthorized use is strictly prohibited.
-
-## Contributions
-We welcome contributions to enhance the functionality and usability of this tool. If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature-name`).
-3. Commit your changes and push to your branch.
-4. Submit a pull request for review.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For queries or feedback, feel free to contact us at: **your-email@example.com**.
+
+For adding your favorite Dork, send a message on Telegram to [@azrilabroo](https://t.me/azrilabroo).
