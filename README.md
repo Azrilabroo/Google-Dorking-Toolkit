@@ -1,5 +1,4 @@
 # Google Dorking Web Tool
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dorksearch.netlify.app)
 ## Overview
 The **Google Dorking Web Tool** is a user-friendly online platform designed to help users explore Google Dork queries specific to their domains. This tool is perfect for ethical security testing, SEO insights, and understanding how search engines index your website.
 
