@@ -29,9 +29,6 @@ The **Google Dorking Web Tool** is a user-friendly online platform designed to h
 ## Disclaimer
 This tool is intended for educational purposes and ethical use only. Do not use it to test domains or data you do not own or have explicit permission to analyze. Unauthorized use is strictly prohibited.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For adding your favorite Dork, send a message on Telegram to [@azrilabroo](https://t.me/azrilabroo).
